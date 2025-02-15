@@ -1,0 +1,10 @@
+# requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+pmdarima
+scikit-learn
+torch
+chronos
